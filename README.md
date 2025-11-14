@@ -66,9 +66,11 @@ The goal is to identify which customers are at risk of leaving and why, enabling
 ### Numeric Features
 | Feature | Histogram | Boxplot |
 |---------|-----------|---------|
-| Tenure | ![Tenure Histogram](images/tenure_histogram.png) | ![Tenure Boxplot](images/tenure_boxplot.png) |
-| Monthly Charges | ![MonthlyCharges Histogram](images/MonthlyCharges_histogram.png) | ![MonthlyCharges Boxplot](images/MonthlyCharges_boxplot.png) |
-| Total Charges | ![TotalCharges Histogram](images/TotalCharges_histogram.png) | ![TotalCharges Boxplot](images/TotalCharges_boxplot.png) |
+| Tenure | ![Tenure Histogram]<img width="800" height="400" alt="tenure_histogram" src="https://github.com/user-attachments/assets/5b06c33c-c86e-4d94-911f-f001c5bd06b5" /> | ![Tenure Boxplot] <img width="800" height="400" alt="tenure_boxplot" src="https://github.com/user-attachments/assets/8faf1849-09a1-46bd-bf21-d88303c48962" />
+|
+| Monthly Charges | ![MonthlyCharges Histogram]<img width="800" height="400" alt="MonthlyCharges_histogram" src="https://github.com/user-attachments/assets/8a056cff-1774-4367-8c68-60bec74ba48e" /> | ![MonthlyCharges Boxplot] <img width="800" height="400" alt="MonthlyCharges_boxplot" src="https://github.com/user-attachments/assets/2dc27c07-1bb9-472c-ac2b-8b41bce31d49" />
+|
+| Total Charges | ![TotalCharges Histogram]<img width="800" height="400" alt="MonthlyCharges_histogram" src="https://github.com/user-attachments/assets/be601f0e-55b1-46b1-b885-d56b294f6961" /> | ![TotalCharges Boxplot]<img width="800" height="400" alt="TotalCharges_boxplot" src="https://github.com/user-attachments/assets/aecb1f5e-b668-4a9b-8849-657e9a49fa25" />|
 
 ### Categorical Features
 | Feature | Countplot | Churn Rate |
