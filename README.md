@@ -8,9 +8,7 @@
 ---
 
 ## 🚀 Project Overview
-This project analyzes **customer churn** for a telecommunications company using real-world data on demographics, contracts, services, and billing.  
-The goal is to identify which customers are at risk of leaving and why, enabling **data-driven retention strategies**.
-
+In this **Customer churn analysis** for a telecommunications company using data on demographics, contracts, services, and billing.We identified which customers are at **risk of leaving** and why,enabling **data-driven retention strategies.**
 ---
 
 ## 📊 Project Summary
